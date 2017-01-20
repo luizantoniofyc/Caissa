@@ -1,0 +1,24 @@
+﻿.ContextItem {
+    background-color: White;
+    color: Black;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 12px;
+    font-weight: normal;
+}
+.ContextItem:hover {
+    background-color: #0066FF;
+    color: White;
+}
+.detailItem {
+    background: transparent;
+}
+.detailItem:hover {
+    background-color: White;
+    cursor: default;
+}
+.BotaoContextItem {
+    width: 100%;
+    height: 100%;
+    background: Transparent;
+}
