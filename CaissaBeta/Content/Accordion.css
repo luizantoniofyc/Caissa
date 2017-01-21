@@ -1,0 +1,41 @@
+﻿.menu_list {
+	width: 100%;
+    font-family:Arial;
+}
+.menu_head {
+    background: #BCD2EE url(../Pages/Images/sinal_mais.png) center left no-repeat;
+    padding: 5px 15px;
+	cursor: pointer;
+	position: relative;
+	margin:1px;
+        font-weight:bold;
+        /*background: #BCD2EE url(../Pages/Images/sinal_mais_um_10.png) center left no-repeat;*/
+}
+.menu_body {
+	display:block;
+}
+.menu_table {
+  display:block;
+  color:#006699;
+  background-color:#EFEFEF;
+  padding-left:10px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.label_titulo {
+    width:600px;
+}
+.label_descricao {
+    width:600px;
+    height:100px;
+}
+.label_data {
+    width:200px;
+}
+.dropdown {
+    width:200px;
+}
+.menu_body a:hover {
+  color: #000000;
+  text-decoration:underline;
+}

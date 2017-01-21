@@ -1,0 +1,82 @@
+﻿.label-form-title {
+    font-size: medium;
+    font-weight: 500;
+}
+.listbox {
+    width: 600px;
+    height: 150px;
+    padding: 15px 15px 15px;
+    border-radius: 5px;
+}
+.project_form {
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.justified {
+    text-align: justify;
+}
+.grid {
+    table-layout:fixed; 
+    width:100%; 
+}
+.grid .shorter {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;  
+}
+.centered {
+    max-width: 650px;
+    float: none;
+    margin: 0 auto;
+}
+.top5 {
+    margin-top: 5px;
+}
+.top10 {
+    margin-top: 10px;
+}
+.top10p {
+    margin-top: 10%;
+}
+.top15 {
+    margin-top: 15px;
+}
+.top20 {
+    margin-top: 20px;
+}
+.top30 {
+    margin-top: 30px;
+}
+.bottom5 {
+    margin-bottom: 5px;
+}
+.bottom10 {
+    margin-bottom: 10px;
+}
+.bottom20 {
+    margin-bottom: 20px;
+}
+.bottom30 {
+    margin-bottom: 30px;
+}
+.content {
+    border-left: 1px solid #ddd;
+    border-left: 1px solid rgba(86,61,124,.2);
+    min-height: 420px;
+}
+div[role="heading"] {
+    margin-bottom: 0px;
+}
+header[role=banner], footer[role=banner] {
+    text-align: center;
+}
+div[role="main"] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+    min-height: 420px;
+}
+p {
+    font-size: 17px;
+    text-align: justify;
+}
