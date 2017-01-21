@@ -1,0 +1,228 @@
+con_level;con_description
+5.1.1;Whether there exists an Information security policy, which is approved by the management, published and communicated as appropriate to all employees.
+5.1.2;Whether the policy states management commitment and sets out the organizational approach to managing information security.
+6.1.1;Whether management demonstrates active support for security measures within the organization. This can be done via clear direction, demonstrated commitment, explicit assignment and acknowledgement of information security responsibilities.
+6.1.2;Whether information security activities are coordinated by representatives from diverse parts of the organization, with pertinent roles and responsibilities.  
+6.1.3;Whether responsibilities for the protection of individual assets, and for carrying out specific security processes, were clearly identified and defined.
+6.1.4;Whether management authorization process is defined and implemented for any new information processing facility within the organization. 
+6.1.5;"Whether the organization’s need for Confidentiality or Non-Disclosure Agreement (NDA) for protection of information is clearly defined and regularly reviewed.
+Does this address the requirement to protect the confidential information using legal enforceable terms?"
+6.1.6;Whether there exists a procedure that describes when, and by whom: relevant authorities such as Law enforcement, fire department etc., should be contacted, and how the incident should be reported. 
+6.1.7;Whether appropriate contacts with special interest groups or other specialist security forums, and professional associations are maintained. 
+6.1.8;Whether the organization’s approach to managing information security, and its implementation, is reviewed independently at planned intervals, or when major changes to security implementation occur. 
+6.2.1;Whether risks to the organization’s information and information processing facility, from a process involving external party access, is identified and appropriate control measures implemented before granting access. 
+6.2.2;Whether all identified security requirements are fulfilled before granting customer access to the organization’s information or assets. 
+6.2.3;Whether the agreement with third parties, involving accessing, processing, communicating or managing the organization’s information or information processing facility, or introducing products or services to information processing facility, complies with all appropriate security requirements.
+7.1.1;Whether all assets are identified and an inventory or register is maintained with all the important assets. 
+7.1.2;Whether each asset identified has an owner, a defined and agreed-upon security classification, and access restrictions that are periodically reviewed.
+7.1.3;Whether regulations for acceptable use of information and assets associated with an information processing facility were identified, documented and implemented. 
+7.2.1;Whether the information is classified in terms of its value, legal requirements, sensitivity and criticality to the organization.
+7.2.2;Whether an appropriate set of procedures are defined for information labelling and handling, in accordance with the classification scheme adopted by the organization.
+8.1.1;"Whether employee security roles and responsibilities, contractors and third party users were defined and documented in accordance with the organization’s information security policy. 
+Were the roles and responsibilities defined and clearly communicated to job candidates during the pre-employment process?"
+8.1.2;"Whether background verification checks for all candidates for employment, contractors, and third party users were carried out in accordance to the relevant regulations. 
+Does the check include character reference, confirmation of claimed academic and professional qualifications and independent identity checks?"
+8.1.3;"Whether employee, contractors and third party users are asked to sign confidentiality or non-disclosure agreement as a part of their initial terms and conditions of the employment contract.
+Whether this agreement covers the information security responsibility of the organization and the employee, third party users and contractors. "
+8.2.1;Whether the management requires employees, contractors and third party users to apply security in accordance with the established policies and procedures of the organization.
+8.2.2;Whether all employees in the organization, and where relevant, contractors and third party users, receive appropriate security awareness training and regular updates in organizational policies and procedures as it pertains to their job function.
+8.2.3;Whether there is a formal disciplinary process for the employees who have committed a security breach.
+8.3.1;Whether responsibilities for performing employment termination, or change of employment, are clearly defined and assigned.
+8.3.2;Whether there is a process in place that ensures all employees, contractors and third party users surrender all of the organization’s assets in their possession upon termination of their employment, contract or agreement.
+8.3.3;Whether access rights of all employees, contractors and third party users, to information and information processing facilities, will be removed upon termination of their employment, contract or agreement, or will be adjusted upon change. 
+9.1.1;"Whether a physical border security facility has been implemented to protect the information processing service. 
+Some examples of such security facilities are card control entry gates, walls, manned reception, etc."
+9.1.2;Whether entry controls are in place to allow only authorized personnel into various areas within the organization. 
+9.1.3;Whether the rooms, which have the information processing service, are locked or have lockable cabinets or safes. 
+9.1.4;Whether the physical protection against damage from fire, flood, earthquake, explosion, civil unrest and other forms of natural or man-made disaster should be designed and applied.
+;Whether there is any potential threat from neighbouring premises.
+9.1.5;Whether physical protection and guidelines for working in secure areas is designed and implemented. 
+9.1.6;Whether the delivery, loading, and other areas where unauthorized persons may enter the premises are controlled, and information processing facilities are isolated, to avoid unauthorized access.
+9.2.1;Whether the equipment is protected to reduce the risks from environmental threats and hazards, and opportunities for unauthorized access. 
+9.2.2;"Whether the equipment is protected from power failures and other disruptions caused by failures in supporting utilities. 
+Whether permanence of power supplies, such as a  multiple feed, an Uninterruptible Power Supply (ups), a backup generator, etc. are being utilized."
+9.2.3;"Whether the power and telecommunications cable, carrying data or supporting information services, is protected from interception or damage. 
+Whether there are any additional security controls in place for sensitive or critical information."
+9.2.4;"Whether the equipment is correctly maintained to ensure its continued availability and integrity. 
+Whether the equipment is maintained, as per the supplier’s recommended service intervals and specifications. 
+Whether the maintenance is carried out only by authorized personnel.
+Whether logs are maintained with all suspected or actual faults and all preventive and corrective measures. 
+Whether appropriate controls are implemented while sending equipment off premises. 
+Are the equipment covered by insurance and the insurance requirements satisfied?"
+9.2.5;"Whether risks were assessed with regards to any equipment usage outside an organization’s premises, and mitigation controls implemented. 
+Whether the usage of an information processing facility outside the organization has been authorized by the management. "
+9.2.6;Whether all equipment, containing storage media, is checked to ensure that any sensitive information or licensed software is physically destroyed, or securely over-written, prior to disposal or reuse.
+9.2.7;Whether any controls are in place so that equipment, information and software is not taken off-site without prior authorization.
+10.1.1;"Whether the operating procedure is documented, maintained and available to all users who need it.
+Whether such procedures are treated as formal documents, and therefore any changes made need management authorization."
+10.1.2;Whether all changes to information processing facilities and systems are controlled.
+10.1.3;Whether duties and areas of responsibility are separated, in order to reduce opportunities for unauthorized modification or misuse of information, or services.
+10.1.4;Whether the development and testing facilities are isolated from operational facilities.  For example, development and production software should be run on different computers.  Where necessary, development and production networks should be kept separate from each other.
+10.2.1;Whether measures are taken to ensure that the security controls, service definitions and delivery levels, included in the third party service delivery agreement, are implemented, operated and maintained by a third party. 
+10.2.2;"Whether the services, reports and records provided by third party are regularly monitored and reviewed.
+Whether audita are conducted on the above third party services, reports and records, on regular interval."
+10.2.3;"Whether changes to provision of services, including maintaining and improving existing information security policies, procedures and controls, are managed.
+Does this take into account criticality of business systems, processes involved and re-assessment of risks"
+10.3.1;"Whether the capacity demands are monitored and projections of future capacity requirements are made, to ensure that adequate processing power and storage are available.
+Example: Monitoring hard disk space, RAM and CPU on critical servers.   "
+10.3.2;"Whether system acceptance criteria are established for new information systems, upgrades and new versions.
+Whether suitable tests were carried out prior to acceptance."
+10.4.1;Whether detection, prevention and recovery controls, to protect against malicious code and appropriate user awareness procedures, were developed and implemented.  
+10.4.2;"Whether only authorized mobile code is used. 
+Whether the configuration ensures that authorized mobile code operates according to security policy.
+Whether execution of unauthorized mobile code is prevented. 
+(Mobile code is software code that transfers from one computer to another computer and then executes automatically.  It performs a specific function with little or no user intervention.  Mobile code is associated with a number of middleware services.)"
+10.5.1;"Whether back-ups of information and software is taken and tested regularly in accordance with the agreed backup policy.
+Whether all essential information and software can be recovered following a disaster or media failure. "
+10.6.1;"Whether the network is adequately managed and controlled, to protect from threats, and to maintain security for the systems and applications using the network, including the information in transit. 
+Whether controls were implemented to ensure the security of the information in networks, and the protection of the connected services from threats, such as unauthorized access. "
+10.6.2;"Whether security features, service levels and management requirements, of all network services, are identified and included in any network services agreement. 
+Whether the ability of the network service provider, to manage agreed services in a secure way, is determined and regularly monitored, and the right to audit is agreed upon. "
+10.7.1;"Whether procedures exist for management of removable media, such as tapes, disks, cassettes, memory cards, and reports.
+Whether all procedures and authorization levels are clearly defined and documented."
+10.7.2;Whether the media that are no longer required are disposed of securely and safely, as per formal procedures. 
+10.7.3;"Whether a procedure exists for handling information storage. 
+Does this procedure address issues, such as information protection, from unauthorized disclosure or misuse?"
+10.7.4;Whether the system documentation is protected against unauthorized access. 
+10.8.1;"Whether there is a formal exchange policy, procedure and control in place to ensure the protection of information.
+ Does the procedure and control cover using electronic communication facilities for information exchange. "
+10.8.2;"Whether agreements are established concerning exchange of information and software between the organization and external parties. 
+Whether the security content of the agreement reflects the sensitivity of the business information involved."
+10.8.3;Whether media containing information is protected against unauthorized access, misuse or corruption during transportation beyond the organization’s physical boundary.
+10.8.4;"Whether the information involved in electronic messaging is well protected. 
+(Electronic messaging includes but is not restricted to Email, Electronic Data Interchange, Instant Messaging)"
+10.8.5;Whether policies and procedures are developed and enforced to protect information associated with the interconnection of business information systems. 
+10.9.1;"Whether the information involved in electronic commerce passing over the public network is protected from fraudulent activity, contract dispute, and any unauthorized access or modification. 
+Whether Security control such as application of cryptographic controls are taken into consideration. 
+Whether electronic commerce arrangements between trading partners include a documented agreement, which commits both parties to the agreed terms of trading, including details of security issues. "
+10.9.2;Whether information involved in online transactions is protected to prevent incomplete transmission, mis-routing, unauthorized message alteration, unauthorized disclosure, unauthorized message duplication or replay.  
+10.9.3;Whether the integrity of the publicly available information is protected against any unauthorized modification.
+10.10.1;"Whether audit logs recording user activities, exceptions, and information security events are produced and kept for an agreed period to assist in future investigations and access control monitoring.
+Whether appropriate Privacy protection measures are considered in Audit log maintenance. "
+10.10.2;"Whether procedures are developed and enforced for monitoring system use for information processing facility.  
+Whether the results of the monitoring activity reviewed regularly.
+Whether the level of monitoring required for individual information processing facility is determined by a risk assessment."
+10.10.3;Whether logging facility and log information are well protected against tampering and unauthorized access. 
+10.10.4;"Whether system administrator and system operator activities are logged. 
+Whether the logged activities are reviewed on regular basis."
+10.10.5;"Whether faults are logged analysed and appropriate action taken.
+Whether level of logging required for individual system are determined by a risk assessment, taking performance degradation into account."
+10.10.6;"Whether system clocks of all information processing system within the organization or security domain is synchronised with an agreed accurate time source.
+(The correct setting of computer clock is important to ensure the accuracy of audit logs)"
+11.1.1;"Whether an access control policy is developed and reviewed based on the business and security requirements.
+Whether both logical and physical access control are taken into consideration in the policy.
+Whether the users and service providers were given a clear statement of the business requirement to be met by access controls."
+11.2.1;Whether there is any formal user registration and de-registration procedure for granting access to all information systems and services. 
+11.2.2;Whether the allocation and use of any privileges in information system environment is restricted and controlled i.e., Privileges are allocated on need-to-use basis, privileges are allocated only after formal authorization process. 
+11.2.3;"The allocation and reallocation of passwords should be controlled through a formal management process. 
+Whether the users are asked to sign a statement to keep the password confidential. "
+11.2.4;Whether there exists a process to review user access rights at regular intervals. Example: Special privilege review every 3 months, normal privileges every 6 moths.
+11.3.1;Whether there are any security practice in place to guide users in selecting and maintaining secure passwords. 
+11.3.2;"Whether the users and contractors are made aware of the security requirements and procedures for protecting unattended equipment. . 
+Example: Logoff when session is finished or set up auto log off, terminate sessions when finished etc.,"
+11.3.3;"Whether the organisation has adopted clear desk policy with regards to papers and removable storage media
+Whether the organisation has adopted clear screen policy with regards to information processing facility"
+11.4.1;"Whether users are provided with access only to the services that they have been specifically authorized to use.
+Whether there exists a policy that does address concerns relating to networks and network services. "
+11.4.2;Whether appropriate authentication mechanism is used to control access by remote users.
+11.4.3;Whether automatic equipment identification is considered as a means to authenticate connections from specific locations and equipment.
+11.4.4;Whether physical and logical access to diagnostic ports are securely controlled i.e., protected by a security mechanism. 
+11.4.5;"Whether groups of information services, users and information systems are segregated on networks.
+Whether the network (where business partner’s and/ or third parties need access to information system) is segregated using perimeter security mechanisms such as firewalls.
+Whether consideration is made to segregation of wireless networks from internal and private networks. "
+11.4.6;Whether there exists an access control policy which states network connection control for shared networks, especially for those extend across organization’s boundaries. 
+11.4.7;"Whether the access control policy states routing controls are to be implemented for networks.
+Whether the routing controls are based on the positive source and destination identification mechanism."
+11.5.1;Whether access to operating system is controlled by secure log-on procedure.
+11.5.2;"Whether unique identifier (user ID) is provided to every user such as operators, system administrators and all other staff including technical. 
+Whether suitable authentication technique is chosen to substantiate the claimed identity of user.
+Whether generic user accounts are supplied only under exceptional circumstances where there is a clear business benefit. Additional controls may be necessary to maintain accountability."
+11.5.3;Whether there exists a password management system that enforces various password controls such as: individual password for accountability, enforce password changes, store passwords in encrypted form, not display passwords on screen etc., 
+11.5.4;Whether the utility programs that might be capable of overriding system and application controls is restricted and tightly controlled. 
+11.5.5;"Whether inactive session is shutdown after a defined period of inactivity.
+(A limited form of timeouts can be provided for some systems, which clears the screen and prevents unauthorized access but does not close down the application or network sessions."
+11.5.6;Whether there exists restriction on connection time for high-risk applications. This type of set up should be considered for sensitive applications for which the terminals are installed in high-risk locations.
+11.6.1;Whether access to information and application system functions by users and support personnel is restricted in accordance with the defined access control policy.
+11.6.2;Whether sensitive systems are provided with dedicated (isolated) computing environment such as running on a dedicated computer, share resources only with trusted application systems, etc.,
+11.7.1;"Whether a formal policy is in place, and appropriate security measures are adopted to protect against the risk of using mobile computing and communication facilities.
+Some example of Mobile computing and communications facility include: notebooks, palmtops, laptops, smart cards, mobile phones. 
+Whether risks such as working in unprotected environment is taken into account by Mobile computing policy."
+11.7.2;"Whether policy, operational plan and procedures are developed and implemented for teleworking activities.
+Whether teleworking activity is authorized and controlled by management and does it ensure that suitable arrangements are in place for this way of working."
+12.1.1;"Whether security requirements for new information systems and enhancement to existing information system specify the requirements for security controls. 
+Whether the Security requirements and controls identified reflects the business value of information assets involved and the consequence from failure of Security.
+Whether system requirements for information security and processes for implementing security is integrated in the early stages of information system projects."
+12.2.1;"Whether data input to application system is validated to ensure that it is correct and appropriate. 
+Whether the controls such as: Different types of inputs to check for error messages, Procedures for responding to validation errors, defining responsibilities of all personnel involved in data input process etc., are considered."
+12.2.2;"Whether validation checks are incorporated into applications to detect any corruption of information through processing errors or deliberate acts. 
+Whether the design and implementation of applications ensure that the risks of processing failures leading to a loss of integrity are minimised. "
+12.2.3;"Whether requirements for ensuring and protecting message integrity in applications are identified, and appropriate controls identified and implemented. 
+Whether an security risk assessment was carried out to determine if message integrity is required, and to identify the most appropriate method of implementation.   "
+12.2.4;Whether the data output of application system is validated to ensure that the processing of stored information is correct and appropriate to circumstances. 
+12.3.1;"Whether the organization has Policy on use of cryptographic controls for protection of information. . 
+Whether the policy is successfully implemented.
+Whether the cryptographic policy does consider the management approach towards the use of cryptographic controls, risk assessment results to identify required level of protection, key management methods and various standards for effective implementation."
+12.3.2;"Whether key management is in place to support the organizations use of cryptographic techniques. 
+Whether cryptographic keys are protected against modification, loss, and destruction.
+Whether secret keys and private keys are protected against unauthorized disclosure.
+Whether equipments used to generate, store keys are physically protected. 
+Whether the Key management system is based on agreed set of standards, procedures and secure methods."
+12.4.1;Whether there are any procedures in place to control installation of software on operational systems. (This is to minimise the risk of corruption of operational systems.)
+12.4.2;"Whether system test data is protected and controlled. 
+Whether use of personal information or any sensitive information for testing operational database is shunned. "
+12.4.3;"Whether strict controls are in place to restrict access to program source libraries. 
+(This is to avoid the potential for unauthorized, unintentional changes.)"
+12.5.1;"Whether there is strict control procedure in place over implementation of changes to the information system. (This is to minimise the corruption of information system.)
+Whether this procedure addresses need for risk assessment, analysis of impacts of changes, "
+12.5.2;"Whether there is process or procedure in place to review and test business critical applications for adverse impact on organizational operations or security after the change to Operating Systems.  
+Periodically it is necessary to upgrade operating system i.e., to install service packs, patches, hot fixes etc., "
+12.5.3;"Whether modifications to software package is discouraged and/ or limited to necessary changes.
+Whether all changes are strictly controlled. "
+12.5.4;"Whether controls are in place to prevent information leakage.  
+Whether controls such as scanning of outbound media, regular monitoring of personnel and system activities permitted under local legislation, monitoring resource usage are considered. "
+12.5.5;"Whether the outsourced software development is supervised and monitored by the organization. 
+Whether points such as: Licensing arrangements, escrow arrangements, contractual requirement for quality assurance, testing before installation to detect Trojan code etc., are considered. "
+12.6.1;"Whether timely information about technical vulnerabilities of information systems being used is obtained.
+Whether the organization’s exposure to such vulnerabilities evaluated and appropriate measures taken to mitigate the associated risk."
+13.1.1;"Whether information security events are reported through appropriate management channels as quickly as possible. 
+Whether formal information security event reporting procedure, Incident response and escalation procedure is developed and implemented. "
+13.1.2;Whether there exists a procedure that ensures all employees of information systems and services are required to note and report any observed or suspected security weakness in the system or services. 
+13.2.1;"Whether management responsibilities and procedures were established to ensure quick, effective and orderly response to information security incidents. 
+Whether monitoring of systems, alerts and vulnerabilities are used to detect information security incidents. 
+Whether the objective of information security incident management is agreed with the management."
+13.2.2;"Whether there is a mechanism in place to identify and quantify the type, volume and costs of information security incidents. 
+Whether the information gained from the evaluation of the past information security incidents are used to identify recurring or high impact incidents. "
+13.2.3;"Whether follow-up action against a person or organization after an information security incident involves legal action (either civil or criminal). 
+Whether evidence relating to the incident are collected, retained and presented to conform to the rules for evidence laid down in the relevant jurisdiction(s). 
+Whether internal procedures are developed and followed when collecting and presenting evidence for the purpose of disciplinary action within the organization. "
+14.1.1;"Whether there is a managed process in place that addresses the information security requirements for developing and maintaining business continuity throughout the organization. 
+Whether this process understands the risks the organization is facing, identify business critical assets, identify incident impacts, consider the implementation of additional preventative controls and documenting the business continuity plans addressing the security requirements."
+14.1.2;Whether events that cause interruption to business process is identified along with the probability and impact of such interruptions and their consequence for information security.
+14.1.3;"Whether plans were developed to maintain and restore business operations, ensure availability of information within the required level in the required time frame following an interruption or failure to business processes.
+Whether the plan considers identification and agreement of responsibilities, identification of acceptable loss, implementation of recovery and restoration procedure, documentation of procedure and regular testing."
+14.1.4;"Whether there is a single framework of Business continuity plan.
+Whether this framework is maintained to ensure that all plans are consistent and identify priorities for testing and maintenance. 
+Whether business continuity plan addresses the identified information security requirement. "
+14.1.5;"Whether Business continuity plans are tested regularly to ensure that they are up to date and effective.
+Whether business continuity plan tests ensure that all members of the recovery team and other relevant staff are aware of the plans and their responsibility for business continuity and information security and know their role when plan is evoked. "
+15.1.1;"Whether all relevant statutory, regulatory, contractual requirements and organizational approach to meet the requirements were explicitly defined and documented for each information system and organization. 
+Whether specific controls and individual responsibilities to meet these requirements were defined and documented."
+15.1.2;"Whether there are procedures to ensure compliance with legislative, regulatory and contractual requirements on the use of material in respect of which there may be intellectual property rights and on the use of proprietary software products. 
+Whether the procedures are well implemented.
+Whether controls such as: publishing intellectual property rights compliance policy, procedures for acquiring software, policy awareness, maintaining proof of ownership, complying with software terms and conditions are considered. "
+15.1.3;"Whether important records of the organization is protected from loss destruction and falsification, in accordance with statutory, regulatory, contractual and business requirement.
+Whether consideration is given to possibility of deterioration of media used for storage of records.
+Whether data storage systems were chosen so that required data can be retrieved in an acceptable timeframe and format, depending on requirements to be fulfilled."
+15.1.4;Whether data protection and privacy is ensured as per relevant legislation, regulations and if applicable as per the contractual clauses. 
+15.1.5;"Whether use of information processing facilities for any non-business or unauthorized purpose, without management approval is treated as improper use of the facility. 
+Whether a log-on a warning message is presented on the computer screen prior to log-on. Whether the user has to acknowledge the warning and react appropriately to the message on the screen to continue with the log-on process. 
+Whether legal advice is taken before implementing any monitoring procedures."
+15.1.6;Whether the cryptographic controls are used in compliance with all relevant agreements, laws, and regulations. 
+15.2.1;"Whether managers ensure that all security procedures within their area of responsibility are carried out correctly to achieve compliance with security policies and standards. 
+Do managers regularly review the compliance of information processing facility within their area of responsibility for compliance with appropriate security policy and procedure"
+15.2.2;"Whether information systems are regularly checked for compliance with security implementation standards. 
+Whether the technical compliance check is carried out by, or under the supervision of, competent, authorized personnel. "
+15.3.1;"Whether audit requirements and activities involving checks on operational systems should be carefully planned and agreed to minimise the risk of disruptions to business process. 
+Whether the audit requirements, scope are agreed with appropriate management."
+15.3.2;"Whether access to information system audit tools such as software or data files are protected to prevent any possible misuse or compromise. 
+Whether information system audit tools are separated from development and operational systems, unless given an appropriate level of additional protectizon."
